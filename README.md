@@ -2,7 +2,7 @@
 
 Um site pessoal/currículo online com minhas informações profissionais e links para E-mail, Linkedin e GitHub.
 
-Hospedado gratuitamente com GitHub Pages, acesse aqui: https://alan.zfgithub.io
+Hospedado gratuitamente com GitHub Pages, acesse aqui: https://alanzf.github.io
 
 **Conhecimentos utilizados:**
 
